@@ -1,0 +1,7 @@
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\bin\Debug\GameAssignment.exe.config
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\bin\Debug\GameAssignment.exe
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\bin\Debug\GameAssignment.pdb
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\obj\Debug\GameAssignment.csprojAssemblyReference.cache
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\obj\Debug\GameAssignment.csproj.CoreCompileInputs.cache
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\obj\Debug\GameAssignment.exe
+E:\Dot Net\Assignment 31-07-2020\GameAssignment\GameAssignment\obj\Debug\GameAssignment.pdb
